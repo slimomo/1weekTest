@@ -14,6 +14,10 @@ public class NewBehaviourScript : MonoBehaviour
     { 
     
     }
+    public void FourFour() 
+    { 
+    
+    }
 
     // Update is called once per frame
     void Update()
