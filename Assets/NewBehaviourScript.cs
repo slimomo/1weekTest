@@ -10,6 +10,11 @@ public class NewBehaviourScript : MonoBehaviour
         
     }
 
+    public void momotaro() 
+    { 
+    
+    }
+
     // Update is called once per frame
     void Update()
     {
