@@ -15,6 +15,12 @@ public class NewBehaviourScript : MonoBehaviour
     
     }
 
+    public void testtestmore test() 
+    { 
+    
+    }
+
+
     // Update is called once per frame
     void Update()
     {
